@@ -1,6 +1,9 @@
 # Assignment 1 Exploring Generative AI
 Repository displays code written for a simple java png game, with assistance of gpt-engineer and github co-pilot.
 
+## Medium Article exploring code-interpreter in GPT-4
+link:
+https://medium.com/@kelly.nguyen01/unveiling-gpt-4s-revolutionary-code-interpreter-a-leap-in-human-ai-collaboration-1fab58b1ea72
 ## ScreenCast going through Use Cases
 
 https://github.com/kellynguyvn/Generative_AI/assets/80297074/3b03d0b3-d0b5-44e7-a52f-c1a3b100c6c6
