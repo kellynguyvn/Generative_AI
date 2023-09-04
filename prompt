@@ -1,0 +1,12 @@
+Create a fully functioning Pong game written in Java and MVC structure. The game should feature the following:
+
+1. Two paddles, one for each player, that move up and down.
+2. A bouncing ball that players can hit with their paddles.
+3. Scoring logic to keep track of points for each player.
+4. Collision detection for the ball against the walls and paddles.
+5. A simple graphical interface using Java Swing or JavaFX.
+6. Controls to start, pause, and restart the game.
+7. Multi-threading for smooth gameplay.
+8. A README file with instructions on how to run and play the game.
+
+Please provide the complete source code, explanations for each part, and a guide on how to compile and run the game.
